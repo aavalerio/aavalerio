@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou a Amanda 👋
 
-<!--
-**aavalerio/aavalerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho como Analista de Treinamento
+- 🌱 Estudando Python e Engenharia de Dados
+- 📫 Contate-me no https://www.linkedin.com/in/amanda-arrais/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://www.linkedin.com/in/amanda-arrais">
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=aavalerio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aavalerio&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Amanda-Pyhton" height= "30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
