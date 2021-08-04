@@ -25,5 +25,7 @@
   
 ![Snake animation](https://github.com/aavalerio/aavalerio/blob/output/github-contribution-grid-snake.svg)
 
-  </div>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aavalerio)  
 
+![Profile views](https://gpvc.arturio.dev/aavalerio)
+</div>
